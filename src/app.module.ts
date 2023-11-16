@@ -9,3 +9,7 @@ import { UsersModule } from './users/users.module';
   providers: [AppService],
 })
 export class AppModule {}
+
+/**
+ * app.module.ts 파일은 프로젝트에 최상위 모듈
+ */
